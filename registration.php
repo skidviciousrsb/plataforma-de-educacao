@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Registration</title>
-    <link rel="stylesheet" type="text/css" href="estilos.css">
+   <link rel="stylesheet" type="text/css" href="registration.css">
   </head>
   <body>
     <div class="form-container">
